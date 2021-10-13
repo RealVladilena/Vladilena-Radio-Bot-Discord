@@ -6,15 +6,16 @@ Ceci est un bot radio qui va tourner 24/24h - 7j/7
 
 Installer bien [Discord JS](https://discord.js.org/#/) sur votre projet sinon le bot de marchera jamais !!
 
-### Prérequis
+### PrÃ©requis
 
 - Un bot avec un token [Discord Developper Application](https://discord.com/developers/applications/726766282354982912/information) (oui oui, je vous jure ^^)
 - Discord JS = [Discord JS](https://discord.js.org/#/)
 - Node JS = [Node JS](https://nodejs.org/en/)
 - Ytdl-core = [Ytdl-core](https://www.npmjs.com/package/ytdl-core)
 - Opusscript = [Opusscript](https://www.npmjs.com/package/opusscript)
+- FFmpeg Static = [ffmpeg-static](https://www.npmjs.com/package/ffmpeg-static)
 
-### 1er démarrage
+### 1er dÃ©marrage
 
 Aller dans le fichier [/config.json](https://github.com/SaabniaTv/Alice-Radio-Bot-Discord/blob/main/config.json), et remplacer "YOUR BOT TOKEN UwU" par votre bot Token !
 
